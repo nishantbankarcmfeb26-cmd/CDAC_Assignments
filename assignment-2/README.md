@@ -1,1 +1,0 @@
-# cpp-assignment-2
